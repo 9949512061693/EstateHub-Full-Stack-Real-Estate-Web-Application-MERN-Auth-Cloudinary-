@@ -62,16 +62,11 @@ estatehub/
 
 ## ⚙️ Environment Variables
 
-### 🔹 Frontend (.env)
-
-```env
-VITE_API_URL=
-```
 
 ### 🔹 Frontend (.env.production)
 
 ```env
-VITE_API_URL=https://your-backend.onrender.com
+VITE_API_URL=https://estatehub-full-stack-real-estate-web.onrender.com
 ```
 
 ---
@@ -94,7 +89,7 @@ CLOUDNAIRY_SECRET=your_secret
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/estatehub.git
+git clone https://github.com/9949512061693/EstateHub-Full-Stack-Real-Estate-Web-Application-MERN-Auth-Cloudinary
 cd estatehub
 ```
 
@@ -123,7 +118,7 @@ npm start
 ### 3️⃣ Open in browser
 
 ```
-http://localhost:5173
+https://estate-hub-full-stack-real-estate-w.vercel.app
 ```
 
 ---
