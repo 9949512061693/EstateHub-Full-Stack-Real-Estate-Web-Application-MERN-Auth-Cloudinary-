@@ -6,8 +6,8 @@ EstateHub is a full-stack real estate web application that allows users to explo
 
 ## 🌐 Live Demo
 
-- 🔗 Frontend: https://your-frontend.vercel.app
-- 🔗 Backend: https://your-backend.onrender.com
+- 🔗 Frontend: https://estate-hub-full-stack-real-estate-w.vercel.app
+- 🔗 Backend: https://estatehub-full-stack-real-estate-web.onrender.com
 
 ---
 
